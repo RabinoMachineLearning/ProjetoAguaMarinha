@@ -17,13 +17,24 @@ Mitigar a observação de tubarões Prevenir Ataques de tubarões ao Banhistas.
 
  Estudos Cismicos e Geograficos.
 
-![Introdução_para_Estudo_Geograficos](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/SonTek_ADP-Mini.jpg)
+![Introdução_para_Estudo_Geosismico](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/SonTek_ADP-Mini.jpg)
 
 
  Identificação de Densidade da água e Consequentemente a Indentificação da presença de oleo Na água.
+ 
+ ![Estudos Sismicos](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/a04fig03.gif)
+ ![Usado como HidroFone](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/a09fig04.gif)
 
 
 # SOFTWARE PARA O PROJETO REAL.
+
+###MATLAB
+
+![MATLAB](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/unnamed.jpg)
+![VOID](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/codigoSismico.png)
+![CONTINUIDADE](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/codigoSismico2.png)
+![VOID3](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/codigoSismicos3.png)
+![CONCLUSÃO](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/sismicoConclus%C3%A3o.png)
 
 
 
@@ -31,8 +42,12 @@ Mitigar a observação de tubarões Prevenir Ataques de tubarões ao Banhistas.
 
 
 IDE para execução do projeto
+
 Processing: http://processing.org
+
 Arduíno: http://arduino.cc
+
 Alterações
+
 Add Som de efeito para o sonar;
 Add Library NewPing para melhorias.
