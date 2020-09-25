@@ -17,7 +17,7 @@ Mitigar a observação de tubarões Prevenir Ataques de tubarões ao Banhistas.
 
  Estudos Cismicos e Geograficos.
 
-![Introdução_para_Estudo_Geograficos] (https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/SonTek_ADP-Mini.jpg)
+![Introdução_para_Estudo_Geograficos](https://github.com/RabinoMachineLearning/ProjetoAguaMarinha/blob/master/SonTek_ADP-Mini.jpg)
 
 
  Identificação de Densidade da água e Consequentemente a Indentificação da presença de oleo Na água.
